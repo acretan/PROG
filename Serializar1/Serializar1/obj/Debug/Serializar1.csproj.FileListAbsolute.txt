@@ -1,0 +1,7 @@
+C:\Users\minia\source\repos\Serializar1\Serializar1\bin\Debug\Serializar1.exe.config
+C:\Users\minia\source\repos\Serializar1\Serializar1\bin\Debug\Serializar1.exe
+C:\Users\minia\source\repos\Serializar1\Serializar1\bin\Debug\Serializar1.pdb
+C:\Users\minia\source\repos\Serializar1\Serializar1\obj\Debug\Serializar1.csprojResolveAssemblyReference.cache
+C:\Users\minia\source\repos\Serializar1\Serializar1\obj\Debug\Serializar1.csproj.CoreCompileInputs.cache
+C:\Users\minia\source\repos\Serializar1\Serializar1\obj\Debug\Serializar1.exe
+C:\Users\minia\source\repos\Serializar1\Serializar1\obj\Debug\Serializar1.pdb
